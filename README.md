@@ -1,4 +1,4 @@
-# Veri-Yap-lar-ve-Algoritmalar-Insertion-Sort
+# Veri Yapıları ve Algoritmalar-Insertion Sort
 
 Proje 1
 
